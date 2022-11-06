@@ -11,6 +11,6 @@ Requisites:
 4) Pandas
 5) Matplotlib
 6) Seaborn
-7) PyCaret
+
 
 
